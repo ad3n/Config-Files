@@ -29,8 +29,3 @@ alias rd="app/console route:debug"
 alias csd="app/console container:debug"
 alias sfi="sudo chmod 777 -R app/cache && sudo chmod 777 -R app/logs"
 alias deploy="cap deploy"
-
-ssh-add ~/.ssh/surya.kejawen@gmail.com
-
-### Added by the Heroku Toolbelt
-export PATH="/usr/local/heroku/bin:$PATH"
